@@ -1,0 +1,10 @@
+{
+  "name": "each",
+  "description": "A forEach shim for both array and object",
+  "version": "1.0.0",
+  "keywords": ["each", "forEach"],
+  "main": "index.js",
+  "dependencies": {
+    "ddxq-components/type": "1.0.0"
+  }
+}
