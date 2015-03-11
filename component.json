@@ -4,6 +4,9 @@
   "version": "1.0.0",
   "keywords": ["each", "forEach"],
   "main": "index.js",
+  "scripts:":[
+    "index.js"
+  ],
   "dependencies": {
     "ddxq-components/type": "1.0.0"
   }
