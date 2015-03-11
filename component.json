@@ -1,6 +1,6 @@
 {
   "name": "each",
-  "description": "A forEach shim for both array and object",
+  "description": "一个通用的迭代函数,它可以用来无缝迭代对象和数组。",
   "version": "1.0.0",
   "keywords": ["each", "forEach"],
   "main": "index.js",
