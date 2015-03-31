@@ -3,9 +3,9 @@
   "description": "一个通用的迭代函数,它可以用来无缝迭代对象和数组。",
   "version": "1.0.0",
   "keywords": ["each", "forEach"],
-  "main": "index.js",
-  "scripts:":[
-    "index.js"
+  "main": "each.js",
+  "scripts":[
+    "each.js"
   ],
   "dependencies": {
     "ddxq-components/type": "1.0.0"
